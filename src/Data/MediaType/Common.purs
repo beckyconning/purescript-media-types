@@ -26,6 +26,9 @@ imageJPEG = MediaType "image/jpeg"
 imagePNG :: MediaType
 imagePNG = MediaType "image/png"
 
+imageSVG :: MediaType
+imageSVG = MediaType "image/svg+xml"
+
 multipartFormData :: MediaType
 multipartFormData = MediaType "multipart/form-data"
 
